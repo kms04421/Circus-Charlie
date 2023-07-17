@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Daed
+  - Dead
+  - addScore
+  - Win
+  - Boss
+  - bellet
+  - Wall
+  - ship
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: backGround
+    uniqueID: 2076770171
+    locked: 0
+  - name: DeadBack
+    uniqueID: 3184999601
+    locked: 0
+  - name: Player
+    uniqueID: 3503686737
+    locked: 0
+  - name: Boss
+    uniqueID: 1056084123
+    locked: 0
+  - name: Dead
+    uniqueID: 2323706405
+    locked: 0
+  - name: MM
+    uniqueID: 1637275463
+    locked: 0
